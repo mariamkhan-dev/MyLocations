@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MyLocations
 //
-//  Created by md khan on 3/15/21.
+//  Created by m khan on 3/15/21.
 //
 
 import UIKit
